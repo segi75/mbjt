@@ -1,2 +1,2 @@
 # mbjt
-mobile bojitong 
+mobile bokjitong 
